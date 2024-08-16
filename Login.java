@@ -7,12 +7,6 @@ add ()
 s
 s
 }
-sub()
-{
-sfsf
-sfs
-fs
-}
 
 mul() {
 sfsfsf
@@ -20,3 +14,4 @@ sf
 sf
 }
 }
+adding something
