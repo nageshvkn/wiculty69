@@ -1,17 +1,12 @@
 public class Login
 {
-	public static void main(String args[])
+	public static void main(String args[]) {
 
-add ()
-{
-s
-s
+	int i;
+
+	for(i=1;i<=10;i++){
+		System.out.println("Number: " + i);
+	}
+
 }
 
-mul() {
-sfsfsf
-sf
-sf
-}
-}
-adding something
